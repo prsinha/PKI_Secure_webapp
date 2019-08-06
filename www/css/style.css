@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+a:link {  color: #FFFFFF; text-decoration: none}
+
+a:visited{
+	color: #B3D9FF;
+	text-decoration:none;
+}
+
+a:hover {
+	color: #B7DBFF;
+	text-decoration: underline
+}
+
+body {
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-size: 12px;
+}
+
+h1{
+	background-image:url(../image/longmenu.gif);
+	background-repeat: no-repeat;
+	background-position: left top;
+	font-size: 14px;
+	font-weight:bold;
+	border-bottom-width: 2px;
+	border-bottom-style: dotted;
+	border-bottom-color: #336666;
+}
+h2{
+	font-size: 12px;
+	font-weight:bold;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #336666;
+}
+black
+{
+	color: #000000;
+	text-decoration: underline;
+	font-size: 12px;
+	font-weight: bold;
+}

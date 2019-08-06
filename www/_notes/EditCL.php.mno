@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_fileACL" value="name:Names;datatype:string,name:R;datatype:int,name:W;datatype:int,name:O;datatype:int" />
+	<infoitem key="UD_filerights" value="name:R;datatype:int,name:W;datatype:int,name:O;datatype:int" />
+</info>

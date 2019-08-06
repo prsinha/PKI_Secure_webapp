@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_newfiles" value="name:FName;datatype:string,name:DateUploaded;datatype:date" />
+</info>

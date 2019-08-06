@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_users" value="name:UserID;datatype:string,name:Names;datatype:string,name:RID;datatype:int" />
+	<infoitem key="UD_roles" value="name:RID;datatype:int,name:RName;datatype:string,name:RDetails;datatype:string" />
+	<infoitem key="UD_role" value="name:RID;datatype:int,name:RName;datatype:string,name:RDetails;datatype:string" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_userdet" value="name:UserID;datatype:string,name:FName;datatype:string,name:MName;datatype:string,name:LName;datatype:string,name:Telephone;datatype:string,name:Address;datatype:string,name:DOB;datatype:string,name:Email;datatype:string,name:Password;datatype:string,name:Country;datatype:string,name:State;datatype:string,name:City;datatype:string,name:RID;datatype:int,name:IsDeleted;datatype:int" />
+</info>

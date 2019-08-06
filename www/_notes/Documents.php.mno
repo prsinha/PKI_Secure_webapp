@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:FID;datatype:string,name:FName;datatype:string,name:FDetails;datatype:string,name:FType;datatype:string,name:FSize;datatype:int,name:FContent;datatype:blob" />
+	<infoitem key="UD_files" value="name:FID;datatype:string,name:FName;datatype:string,name:FDetails;datatype:string,name:FType;datatype:string,name:FSize;datatype:int,name:FContent;datatype:blob" />
+</info>

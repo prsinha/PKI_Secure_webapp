@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_fileACL" value="name:UserID;datatype:string,name:Names;datatype:string,name:R;datatype:int,name:W;datatype:int,name:O;datatype:int" />
+	<infoitem key="UD_LiveData_params" value="2" />
+	<infoitem key="UD_LiveData_param0" value="" />
+	<infoitem key="UD_LiveData_param1" value="0000003" />
+</info>
